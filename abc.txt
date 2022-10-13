@@ -1,1 +1,1 @@
-"hello"Text file for ConfigMap testing
+Text file for ConfigMap testing
